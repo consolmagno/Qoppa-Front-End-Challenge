@@ -13,9 +13,11 @@ Foram utilizadas as seguintes bibliotecas:
 
 Protótipo de alta fidelidade realizado no Figma para telas mobile, tablets e web:
 
-![preview](.github/mobile.png)
-![preview](.github/ipad.png)
-![preview](.github/web.png)
+
+<h2>Versão Mobile e Tablets</h2>
+<img src=".github/mobile.png" width="280"/> <img src=".github/ipad.png" width="420"/> 
+<h2>Versão Web</h2>
+<img src=".github/web.png" width="700"/> 
 
 
 
